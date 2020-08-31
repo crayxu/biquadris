@@ -13,7 +13,7 @@ This game is designed and implemented with lots of object-oriented concepts. The
 * Polymorphism
 * Non-Virtual Interface Idiom
 * RAII Idiom
-* Reduced compilation dependencies
+* Reduced Compilation Dependencies
 * No Throw Guarantee
 
 There are also some bonus features like:
