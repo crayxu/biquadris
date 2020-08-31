@@ -5,4 +5,4 @@ If you need to see the source code, feel free to contact me.
 
 The final project received grade of 104.6/100.
 
-![](cs246-final-project-grade)
+![](cs246-final-project-grade.png)
