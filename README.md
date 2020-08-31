@@ -8,7 +8,7 @@ Screenshot of the graphic and text display of this game:
 
 ---
 
-This game is designed and implemented with lots of object-oriented concepts. There are:
+This game is designed and implemented with some object-oriented concepts. There are:
 * Iterator Design Pattern
 * Observer Design Pattern
 * Factory Design Pattern
@@ -22,7 +22,7 @@ This game is designed and implemented with lots of object-oriented concepts. The
 
 ---
 
-There are also some bonus features like:
+There are also two bonus features:
 * An extra command called “withdraw”, which will undo the player’s last drop.
 * Keyboard listener
 
