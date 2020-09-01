@@ -4,6 +4,7 @@ A modified version of Tetris, which allows two players to play a turn-based Tetr
 ---
 
 Screenshot of the graphic and text display of this game:
+
 ![](biquadris.png)
 
 ---
