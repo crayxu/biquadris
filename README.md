@@ -1,5 +1,5 @@
 # Biquadris
-A modified version of Tetris, which allows two players to play a turn-based Tetris game with several features. If you need to see the source code, feel free to contact me.
+A modified version of Tetris, which allows two players to play a turn-based Tetris game with several features. Due to the school policy, if you need to see the source code, feel free to contact me.
 
 ---
 
